@@ -1,2 +1,2 @@
 # rfid_controller
-RFID Controller (Bernat Code)
+RFID Controller (Code developed by Bernat Gastón Brasó)
