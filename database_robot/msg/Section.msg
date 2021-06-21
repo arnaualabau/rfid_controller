@@ -1,0 +1,9 @@
+#Section variables
+string id_section
+string name
+string qr_docking
+string qr_section
+string map_path
+string description
+string id_shop
+string waypoint_path

@@ -1,0 +1,13 @@
+location_id,reader_id,reader_port,mux_port,mux_port2
+L1,advanrobot200-reader-01,1,0,0
+L2,advanrobot200-reader-01,3,0,0
+L3,advanrobot200-reader-02,1,0,0
+L4,advanrobot200-reader-02,3,0,0
+L5,advanrobot200-reader-03,1,0,0
+L6,advanrobot200-reader-03,3,0,0
+R1,advanrobot200-reader-01,2,0,0
+R2,advanrobot200-reader-01,4,0,0
+R3,advanrobot200-reader-02,2,0,0
+R4,advanrobot200-reader-02,4,0,0
+R5,advanrobot200-reader-03,2,0,0
+R6,advanrobot200-reader-03,4,0,0

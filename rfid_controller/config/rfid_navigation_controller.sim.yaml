@@ -1,0 +1,16 @@
+rfid:
+    readers:
+        - reader_ip: localhost
+          reader_id: simulator-1
+          rest_port: 3161
+          data_port: 3177
+#        - reader_ip: localhost
+#          reader_id: simulator-2
+#          rest_port: 3162
+#          data_port: 3178
+#        - reader_ip: localhost
+#          reader_id: simulator-3
+#          rest_port: 3165
+#          data_port: 3179
+
+wait_for_queues: False #wait for queues to finish during queue_timeout time

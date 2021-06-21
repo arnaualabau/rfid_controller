@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="rfid_controller" pkg="rfid_controller" type="rfid_control.py"
+          output="screen">
+        <rosparam file="$(find rfid_controller)/config/rfid_controller.yaml" command="load" />
+    </node>
+
+</launch>
